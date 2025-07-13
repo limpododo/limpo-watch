@@ -1,3 +1,6 @@
-[submodule "sdk/pico-sdk"]
-	path = extrenal/pico-sdk
+[submodule "external/pico-sdk"]
+	path = external/pico-sdk
 	url = https://github.com/raspberrypi/pico-sdk.git
+[submodule "external/lvgl"]
+	path = external/lvgl
+	url = https://github.com/lvgl/lvgl.git
